@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+#primer{
+    background-color: cornflowerblue;
+    text-align: right;
+}
+
+img.foto{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+.titulos{
+    background-color: cornflowerblue;
+    text-align: center;
+}
